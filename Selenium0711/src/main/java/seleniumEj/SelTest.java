@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class SelTest {
 
 	public static void main(String[] args) {
-		System.out.println("Test");
+		System.out.println("prueba");
 		
 //		String exePath = Paths.get("").toAbsolutePath().toString() + File.separator + "drivers" + File.separator; //Seteand el Path de nuestro driver
 //		System.setProperty("webdriver.chrome.driver", exePath + "chromedriver.exe"); //Identificando el .exe para driver
